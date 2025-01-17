@@ -1,6 +1,6 @@
 <template>
 <div>
-        <h1 class="pt-3 px-3">LEADERSHIP TEAM</h1>
+<h1 class="pt-3 px-5">LEADERSHIP TEAM</h1>
 <div class="scroll-container">
 <div class="pt-3 px-3">
 <div class="card" style="width: 18rem; border-radius: 50px;">
@@ -20,7 +20,7 @@
     <h5 class="card-title text-center">PAK.ARIZAL</h5>
   </div>
   <ul class="list-group list-group-flush text-center">
-    <li class="list-group-item">IT & Human Resource (HR) Manager</li>
+    <li class="list-group-item">IT&Human Resource (HR) Manager</li>
   </ul>
   </div>
 </div>
@@ -37,7 +37,7 @@
 </div>
 <div class="pt-3 px-3">
 <div class="card" style="width: 18rem; border-radius: 50px;">
-  <img src="~/assets/slice.png" class="card-img-top" alt="..." style="border-radius: 50px;">
+  <img src="~/assets/frame3.png" class="card-img-top" alt="..." style="border-radius: 50px;">
   <div class="card-body">
     <h5 class="card-title text-center">PAK.MA'MUN</h5>
   </div>
@@ -54,6 +54,66 @@
   </div>
   <ul class="list-group list-group-flush text-center">
     <li class="list-group-item">Sales & Marketing Manager</li>
+  </ul>
+  </div>
+</div>
+</div>
+</div>
+<div>
+<h1 class="pt-3 px-5">STAF TEAM</h1>
+<div class="scroll-container">
+<div class="pt-3 px-3">
+<div class="card" style="width: 18rem; border-radius: 50px;">
+  <img src="~/assets/frame3.png" class="card-img-top" alt="..." style="border-radius: 50px;">
+  <div class="card-body">
+    <h5 class="card-title text-center">NAMA</h5>
+  </div>
+  <ul class="list-group list-group-flush text-center">
+    <li class="list-group-item">BAGIAN TEAM APA</li>
+  </ul>
+  </div>
+</div>
+<div class="pt-3 px-3">
+<div class="card" style="width: 18rem; border-radius: 50px;">
+  <img src="~/assets/frame3.png" class="card-img-top" alt="..." style="border-radius: 50px;">
+  <div class="card-body">
+    <h5 class="card-title text-center">NAMA</h5>
+  </div>
+  <ul class="list-group list-group-flush text-center">
+    <li class="list-group-item">BAGIAN TEAM APA</li>
+  </ul>
+  </div>
+</div>
+<div class="pt-3 px-3">
+<div class="card" style="width: 18rem; border-radius: 50px;">
+  <img src="~/assets/frame3.png" class="card-img-top" alt="..." style="border-radius: 50px;">
+  <div class="card-body">
+    <h5 class="card-title text-center">NAMA</h5>
+  </div>
+  <ul class="list-group list-group-flush text-center">
+    <li class="list-group-item">BAGIAN TEAM APA</li>
+  </ul>
+  </div>
+</div>
+<div class="pt-3 px-3">
+<div class="card" style="width: 18rem; border-radius: 50px;">
+  <img src="~/assets/frame3.png" class="card-img-top" alt="..." style="border-radius: 50px;">
+  <div class="card-body">
+    <h5 class="card-title text-center">NAMA</h5>
+  </div>
+  <ul class="list-group list-group-flush text-center">
+    <li class="list-group-item">BAGIAN TEAM APA</li>
+  </ul>
+  </div>
+</div>
+<div class="pt-3 px-3">
+<div class="card" style="width: 18rem; border-radius: 50px;">
+  <img src="~/assets/frame3.png" class="card-img-top" alt="..." style="border-radius: 50px;">
+  <div class="card-body">
+    <h5 class="card-title text-center">NAMA</h5>
+  </div>
+  <ul class="list-group list-group-flush text-center">
+    <li class="list-group-item">BAGIAN TEAM APA</li>
   </ul>
   </div>
 </div>

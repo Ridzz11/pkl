@@ -153,7 +153,7 @@
 </div>
 <div class="pt-3 px-3">
 <div class="card" style="width: 18rem; border-radius: 50px;">
-  <img src="~/assets/slice.png" class="card-img-top" alt="..." style="border-radius: 50px;">
+  <img src="~/assets/frame3.png" class="card-img-top" alt="..." style="border-radius: 50px;">
   <div class="card-body">
     <h5 class="card-title text-center">PAK.MA'MUN</h5>
   </div>
