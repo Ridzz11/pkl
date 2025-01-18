@@ -38,16 +38,6 @@
           </li>
         </ul>
       </div>
-         <div class="cari col-auto pt-4">
-    <label class="visually-hidden" for="autoSizingSelect">Preference</label>
-    <select class="form-select" id="autoSizingSelect">
-      <option selected>MAU CARI APA NICH?</option>
-      <option value="1">KEMKO ANAK</option>
-      <option value="2">KEMKO DEWASA</option>
-      <option value="3">GAMIS ANAK</option>
-      <option value="3">GAMIS DEWASA</option>
-    </select>
-  </div>
     </div>
   </nav>
 </template>

@@ -1,8 +1,8 @@
 <template>
     <div class="container-fluid">
-        <div class="row p-5  text-dark bg-light">
+        <div class="row p-5 text-dark bg-light">
         <div class="col-3">
-        <img src="../assets/logo.png" alt="" style="width:60%;">
+        <img src="../assets/logoremove1.png" alt="" style="width:60%;">
         </div>
             <div class="col-3 ">
                 <h4>Hubungi kami</h4>
@@ -20,13 +20,14 @@
                 <hr>
                 <a href="https://www.facebook.com/dthree.co.id/"><i class="bi bi-facebook"> Facebook</i></a><br>
                 <a href="https://www.youtube.com/channel/UC9WmS4sPok-9bAmRF1ZXrrg"><i class="bi bi-youtube"> Youtube</i></a><br>
-                <a href="https://www.tiktok.com/@dthree.co.id"><i class="bi bi-instagram"> instagram</i></a><br>
+                <a href="https://www.instagram.com/dthree.co.id/"><i class="bi bi-instagram"> Instagram</i></a><br>
                 <a href="https://x.com/i/flow/login?redirect_after_login=%2Fdthreeofficial"><i class="bi bi-twitter-x"> Twiter</i></a><br>
-                <a href="https://www.tiktok.com/@dthree.co.id"><i class="bi bi-tiktok text-dark"></i>Tiktok</a>
+                <a href="https://www.tiktok.com/@dthree.co.id"><i class="bi bi-tiktok"> Tiktok</i></a><br>
+                <a href="https://linktr.ee/dthree.co.id"><i class="bi bi-whatsapp"> Whatsapp</i></a>
             </div>
 
             <hr>
-            <div class="cpyrght text-center">2024 © DTHREE Tasikmalaya</div>  
+            <div class="cpyrght text-center">2025 © DTHREE Tasikmalaya</div>  
         </div>
     </div>
 </template>
